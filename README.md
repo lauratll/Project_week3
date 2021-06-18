@@ -1,6 +1,6 @@
 # Project_week3<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Customised your DJ's session
 *[Laura]*
 
 *[Remote DA Bootcamp, IRONHACK May 2021]*
@@ -8,8 +8,8 @@
 ## Content
 - [Project Description](#project-description)
 - [Organization](#organization)
+- [Application of the project](#Aplication-of-the-project)
 - [Links](#links)
-
 
 ## Project Description
 This projects consists on creating a music recomendator. For that two data bases will be created. 
@@ -44,6 +44,12 @@ In the project folder you can find three jupyter notebooks:
 - CREATE 100 HOTSONGS AND SPOTY DB.ipynb (where the Databases are created)
 - Scaling and training K-mean.ipynb (where the model k means is trainned)
 - User_Interaction.ipynb (The Song recommender code)
+
+## Aplication-of-the-project
+
+The idea is to integrate this music recommender to a DJ's night session. When the public requests a song, this song will enter in the recommender and recommend a song.
+
+As a next step, would be to implement this recommended song to the DJ's playlist, making sure the session is customised to the specific pulic in the venue.
 
 ## Links
 

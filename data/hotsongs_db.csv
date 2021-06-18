@@ -1,101 +1,101 @@
 ,title,artist,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,id,uri,duration_ms,category
-0,Butter,BTS,0.759,0.459,8.0,-5.187,1.0,0.0948,0.00323,0.0,0.0906,0.695,109.997,2bgTY4UwhfBYhGT4HUYStN,spotify:track:2bgTY4UwhfBYhGT4HUYStN,164442.0,13
-1,Good 4 U,Olivia Rodrigo,0.556,0.661,6.0,-5.052,0.0,0.204,0.3,0.0,0.101,0.668,168.56,6PERP62TejQjgHu81OHxgM,spotify:track:6PERP62TejQjgHu81OHxgM,178148.0,6
-2,Levitating,Dua Lipa Featuring DaBaby,0.702,0.825,6.0,-3.787,0.0,0.0601,0.00883,0.0,0.0674,0.915,102.977,463CkQjx2Zk1yXoBuierM9,spotify:track:463CkQjx2Zk1yXoBuierM9,203064.0,4
-3,Peaches,Justin Bieber Featuring Daniel Caesar & Giveon,0.677,0.696,0.0,-6.181,1.0,0.119,0.321,0.0,0.42,0.464,90.03,4iJyoBOLtHqaGxP12qzhQI,spotify:track:4iJyoBOLtHqaGxP12qzhQI,198082.0,1
-4,Leave The Door Open,Silk Sonic (Bruno Mars & Anderson .Paak),0.586,0.616,5.0,-7.964,1.0,0.0324,0.182,0.0,0.0927,0.719,148.088,7MAibcTli4IisCtbHKrGMh,spotify:track:7MAibcTli4IisCtbHKrGMh,242096.0,15
-5,Save Your Tears,The Weeknd & Ariana Grande,0.65,0.825,0.0,-4.645,1.0,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,37BZB0z9T8Xu7U3e65qxFy,spotify:track:37BZB0z9T8Xu7U3e65qxFy,191014.0,7
-6,Kiss Me More,Doja Cat Featuring SZA,0.762,0.701,8.0,-3.541,1.0,0.0286,0.235,0.000158,0.123,0.742,110.968,748mdHapucXQri7IAO8yFK,spotify:track:748mdHapucXQri7IAO8yFK,208867.0,13
-7,Astronaut In The Ocean,Masked Wolf,0.778,0.695,4.0,-6.865,0.0,0.0913,0.175,0.0,0.15,0.472,149.996,3Ofmpyhv5UAQ70mENzB277,spotify:track:3Ofmpyhv5UAQ70mENzB277,132780.0,14
-8,Deja Vu,Olivia Rodrigo,0.442,0.612,2.0,-7.222,1.0,0.112,0.584,5.7e-06,0.37,0.178,180.917,6HU7h9RYOaPRFeh0R3UeAr,spotify:track:6HU7h9RYOaPRFeh0R3UeAr,215507.0,16
-9,Yonaguni,Bad Bunny,0.644,0.648,1.0,-4.601,1.0,0.118,0.276,0.0,0.135,0.44,179.951,2JPLbjOn0wPCngEot2STUS,spotify:track:2JPLbjOn0wPCngEot2STUS,206710.0,15
-10,Montero (Call Me By Your Name),Lil Nas X,0.61,0.508,8.0,-6.682,0.0,0.152,0.297,0.0,0.384,0.758,178.818,67BtfxlNbhBmCDR2L2l8qd,spotify:track:67BtfxlNbhBmCDR2L2l8qd,137876.0,15
-11,Without You,The Kid LAROI,0.662,0.413,0.0,-7.357,1.0,0.0299,0.213,0.0,0.134,0.467,93.005,27OeeYzk6klgBh83TSvGMA,spotify:track:27OeeYzk6klgBh83TSvGMA,161385.0,1
-12,Forever After All,Luke Combs,0.487,0.65,0.0,-5.195,1.0,0.0253,0.191,0.0,0.0933,0.456,151.964,6IBcOGPsniK3Pso1wHIhew,spotify:track:6IBcOGPsniK3Pso1wHIhew,232533.0,1
-13,Rapstar,Polo G,0.789,0.536,6.0,-6.862,1.0,0.242,0.41,0.0,0.129,0.437,81.039,43PGPuHIlVOc04jrZVh9L6,spotify:track:43PGPuHIlVOc04jrZVh9L6,165926.0,11
-14,Blinding Lights,The Weeknd,0.514,0.73,1.0,-5.934,1.0,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,0VjIjW4GlUZAMYd2vXMi3b,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,200040.0,15
-15,Hats Off,"Lil Baby, Lil Durk & Travis Scott",0.596,0.65,9.0,-5.167,1.0,0.337,0.138,0.0,0.14,0.188,133.997,4lUmnwRybYH7mMzf16xB0y,spotify:track:4lUmnwRybYH7mMzf16xB0y,257428.0,6
-16,Drivers License,Olivia Rodrigo,0.561,0.431,10.0,-8.81,1.0,0.0578,0.768,1.42e-05,0.106,0.137,143.875,5wANPM4fQCJwkGd4rN57mH,spotify:track:5wANPM4fQCJwkGd4rN57mH,242013.0,16
-17,Beautiful Mistakes,Maroon 5 Featuring Megan Thee Stallion,0.713,0.676,10.0,-5.483,1.0,0.027,0.0377,0.0,0.154,0.721,99.048,3ODXZWBmy6THkPqN7beFIF,spotify:track:3ODXZWBmy6THkPqN7beFIF,227395.0,13
-18,Traitor,Olivia Rodrigo,0.38,0.339,3.0,-7.885,1.0,0.0338,0.691,0.0,0.12,0.0849,100.607,5CZ40GBx1sQ9agT82CLQCT,spotify:track:5CZ40GBx1sQ9agT82CLQCT,229227.0,8
-19,Late At Night,Roddy Ricch,0.643,0.403,1.0,-11.254,0.0,0.41,0.343,0.0,0.138,0.111,98.54,1fxYz1s15pyZLsJT0Hdh1m,spotify:track:1fxYz1s15pyZLsJT0Hdh1m,174682.0,11
-20,Voice Of The Heroes,Lil Baby & Lil Durk,0.754,0.66,0.0,-6.811,1.0,0.267,0.179,0.0,0.194,0.316,83.0,3E3pb3qH11iny6TFDJvsg5,spotify:track:3E3pb3qH11iny6TFDJvsg5,209299.0,11
-21,Best Friend,Saweetie Featuring Doja Cat,0.84,0.766,4.0,-4.12,1.0,0.136,0.00302,3.61e-06,0.0684,0.402,94.018,2etHQJxIbV0soyPhelVs9Y,spotify:track:2etHQJxIbV0soyPhelVs9Y,155884.0,1
-22,Heartbreak Anniversary,Giveon,0.449,0.465,0.0,-8.964,1.0,0.0791,0.524,1.02e-06,0.303,0.543,89.087,3FAJ6O0NOHQV8Mc5Ri6ENp,spotify:track:3FAJ6O0NOHQV8Mc5Ri6ENp,198371.0,3
-23,Heat Waves,Glass Animals,0.761,0.525,11.0,-6.9,1.0,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3USxtqRwSYz57Ewm6wWRMp,spotify:track:3USxtqRwSYz57Ewm6wWRMp,238805.0,9
+0,Butter,BTS,0.759,0.459,8.0,-5.187,1.0,0.0948,0.00323,0.0,0.0906,0.695,109.997,2bgTY4UwhfBYhGT4HUYStN,spotify:track:2bgTY4UwhfBYhGT4HUYStN,164442.0,0
+1,Good 4 U,Olivia Rodrigo,0.556,0.661,6.0,-5.052,0.0,0.204,0.3,0.0,0.101,0.668,168.56,6PERP62TejQjgHu81OHxgM,spotify:track:6PERP62TejQjgHu81OHxgM,178148.0,2
+2,Levitating,Dua Lipa Featuring DaBaby,0.702,0.825,6.0,-3.787,0.0,0.0601,0.00883,0.0,0.0674,0.915,102.977,463CkQjx2Zk1yXoBuierM9,spotify:track:463CkQjx2Zk1yXoBuierM9,203064.0,2
+3,Peaches,Justin Bieber Featuring Daniel Caesar & Giveon,0.677,0.696,0.0,-6.181,1.0,0.119,0.321,0.0,0.42,0.464,90.03,4iJyoBOLtHqaGxP12qzhQI,spotify:track:4iJyoBOLtHqaGxP12qzhQI,198082.0,4
+4,Leave The Door Open,Silk Sonic (Bruno Mars & Anderson .Paak),0.586,0.616,5.0,-7.964,1.0,0.0324,0.182,0.0,0.0927,0.719,148.088,7MAibcTli4IisCtbHKrGMh,spotify:track:7MAibcTli4IisCtbHKrGMh,242096.0,0
+5,Save Your Tears,The Weeknd & Ariana Grande,0.65,0.825,0.0,-4.645,1.0,0.0325,0.0215,2.44e-05,0.0936,0.593,118.091,37BZB0z9T8Xu7U3e65qxFy,spotify:track:37BZB0z9T8Xu7U3e65qxFy,191014.0,0
+6,Kiss Me More,Doja Cat Featuring SZA,0.762,0.701,8.0,-3.541,1.0,0.0286,0.235,0.000158,0.123,0.742,110.968,748mdHapucXQri7IAO8yFK,spotify:track:748mdHapucXQri7IAO8yFK,208867.0,0
+7,Astronaut In The Ocean,Masked Wolf,0.778,0.695,4.0,-6.865,0.0,0.0913,0.175,0.0,0.15,0.472,149.996,3Ofmpyhv5UAQ70mENzB277,spotify:track:3Ofmpyhv5UAQ70mENzB277,132780.0,2
+8,Deja Vu,Olivia Rodrigo,0.442,0.612,2.0,-7.222,1.0,0.112,0.584,5.7e-06,0.37,0.178,180.917,6HU7h9RYOaPRFeh0R3UeAr,spotify:track:6HU7h9RYOaPRFeh0R3UeAr,215507.0,5
+9,Yonaguni,Bad Bunny,0.644,0.648,1.0,-4.601,1.0,0.118,0.276,0.0,0.135,0.44,179.951,2JPLbjOn0wPCngEot2STUS,spotify:track:2JPLbjOn0wPCngEot2STUS,206710.0,0
+10,Montero (Call Me By Your Name),Lil Nas X,0.61,0.508,8.0,-6.682,0.0,0.152,0.297,0.0,0.384,0.758,178.818,67BtfxlNbhBmCDR2L2l8qd,spotify:track:67BtfxlNbhBmCDR2L2l8qd,137876.0,2
+11,Without You,The Kid LAROI,0.662,0.413,0.0,-7.357,1.0,0.0299,0.213,0.0,0.134,0.467,93.005,27OeeYzk6klgBh83TSvGMA,spotify:track:27OeeYzk6klgBh83TSvGMA,161385.0,0
+12,Forever After All,Luke Combs,0.487,0.65,0.0,-5.195,1.0,0.0253,0.191,0.0,0.0933,0.456,151.964,6IBcOGPsniK3Pso1wHIhew,spotify:track:6IBcOGPsniK3Pso1wHIhew,232533.0,0
+13,Rapstar,Polo G,0.789,0.536,6.0,-6.862,1.0,0.242,0.41,0.0,0.129,0.437,81.039,43PGPuHIlVOc04jrZVh9L6,spotify:track:43PGPuHIlVOc04jrZVh9L6,165926.0,1
+14,Blinding Lights,The Weeknd,0.514,0.73,1.0,-5.934,1.0,0.0598,0.00146,9.54e-05,0.0897,0.334,171.005,0VjIjW4GlUZAMYd2vXMi3b,spotify:track:0VjIjW4GlUZAMYd2vXMi3b,200040.0,0
+15,Hats Off,"Lil Baby, Lil Durk & Travis Scott",0.596,0.65,9.0,-5.167,1.0,0.337,0.138,0.0,0.14,0.188,133.997,4lUmnwRybYH7mMzf16xB0y,spotify:track:4lUmnwRybYH7mMzf16xB0y,257428.0,1
+16,Drivers License,Olivia Rodrigo,0.561,0.431,10.0,-8.81,1.0,0.0578,0.768,1.42e-05,0.106,0.137,143.875,5wANPM4fQCJwkGd4rN57mH,spotify:track:5wANPM4fQCJwkGd4rN57mH,242013.0,5
+17,Beautiful Mistakes,Maroon 5 Featuring Megan Thee Stallion,0.713,0.676,10.0,-5.483,1.0,0.027,0.0377,0.0,0.154,0.721,99.048,3ODXZWBmy6THkPqN7beFIF,spotify:track:3ODXZWBmy6THkPqN7beFIF,227395.0,0
+18,Traitor,Olivia Rodrigo,0.38,0.339,3.0,-7.885,1.0,0.0338,0.691,0.0,0.12,0.0849,100.607,5CZ40GBx1sQ9agT82CLQCT,spotify:track:5CZ40GBx1sQ9agT82CLQCT,229227.0,5
+19,Late At Night,Roddy Ricch,0.643,0.403,1.0,-11.254,0.0,0.41,0.343,0.0,0.138,0.111,98.54,1fxYz1s15pyZLsJT0Hdh1m,spotify:track:1fxYz1s15pyZLsJT0Hdh1m,174682.0,1
+20,Voice Of The Heroes,Lil Baby & Lil Durk,0.754,0.66,0.0,-6.811,1.0,0.267,0.179,0.0,0.194,0.316,83.0,3E3pb3qH11iny6TFDJvsg5,spotify:track:3E3pb3qH11iny6TFDJvsg5,209299.0,1
+21,Best Friend,Saweetie Featuring Doja Cat,0.84,0.766,4.0,-4.12,1.0,0.136,0.00302,3.61e-06,0.0684,0.402,94.018,2etHQJxIbV0soyPhelVs9Y,spotify:track:2etHQJxIbV0soyPhelVs9Y,155884.0,0
+22,Heartbreak Anniversary,Giveon,0.449,0.465,0.0,-8.964,1.0,0.0791,0.524,1.02e-06,0.303,0.543,89.087,3FAJ6O0NOHQV8Mc5Ri6ENp,spotify:track:3FAJ6O0NOHQV8Mc5Ri6ENp,198371.0,5
+23,Heat Waves,Glass Animals,0.761,0.525,11.0,-6.9,1.0,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,3USxtqRwSYz57Ewm6wWRMp,spotify:track:3USxtqRwSYz57Ewm6wWRMp,238805.0,0
 24,Calling My Phone,Lil Tjay Featuring 6LACK,0.907,0.393,4.0,-7.636,0.0,0.0539,0.451,1.35e-06,0.135,0.202,104.949,3J8EOeKLTLXORtWPpOU5bE,spotify:track:3J8EOeKLTLXORtWPpOU5bE,205458.0,2
-25,Favorite Crime,Olivia Rodrigo,0.369,0.272,9.0,-10.497,1.0,0.0364,0.866,0.0,0.147,0.218,172.929,5JCoSi02qi3jJeHdZXMmR8,spotify:track:5JCoSi02qi3jJeHdZXMmR8,152667.0,16
-26,Lost Cause,Billie Eilish,0.671,0.336,10.0,-8.494,0.0,0.241,0.705,0.00751,0.0577,0.518,75.051,2xdwCJLfKCkat14mlgR26M,spotify:track:2xdwCJLfKCkat14mlgR26M,212496.0,11
-27,Happier,Olivia Rodrigo,0.395,0.443,6.0,-9.72,1.0,0.133,0.765,9.67e-06,0.0839,0.338,168.924,2tGvwE8GcFKwNdAXMnlbfl,spotify:track:2tGvwE8GcFKwNdAXMnlbfl,175933.0,16
-28,Up,Cardi B,0.868,0.795,11.0,-6.044,1.0,0.269,0.0012,0.0193,0.0461,0.819,166.0,1XXimziG1uhM0eDNCZCrUl,spotify:track:1XXimziG1uhM0eDNCZCrUl,156945.0,6
-29,Mood,24kGoldn Featuring iann dior,0.701,0.716,7.0,-3.671,0.0,0.0361,0.174,0.0,0.324,0.732,91.007,4jPy3l0RUwlUI9T5XHBW2m,spotify:track:4jPy3l0RUwlUI9T5XHBW2m,140533.0,4
-30,2040,Lil Baby & Lil Durk,0.744,0.697,11.0,-4.067,1.0,0.136,0.0415,0.0,0.112,0.238,150.046,2ELp0EL65yitpfJYwc5983,spotify:track:2ELp0EL65yitpfJYwc5983,192921.0,9
-31,Every Chance I Get,DJ Khaled Featuring Lil Baby & Lil Durk,0.477,0.727,2.0,-4.053,1.0,0.286,0.000866,0.0,0.108,0.227,150.062,1EJIcDYXwSqipW5dFe4uJz,spotify:track:1EJIcDYXwSqipW5dFe4uJz,236524.0,6
-32,Telepatia,Kali Uchis,0.653,0.524,11.0,-9.016,0.0,0.0502,0.112,0.0,0.203,0.553,83.97,6tDDoYIxWvMLTdKpjFkc1B,spotify:track:6tDDoYIxWvMLTdKpjFkc1B,160191.0,4
-33,How It Feels,Lil Baby & Lil Durk,0.788,0.628,11.0,-5.746,0.0,0.12,0.00715,0.0,0.132,0.479,104.083,62nb5YUYUqtYJhVPwRhCke,spotify:track:62nb5YUYUqtYJhVPwRhCke,166911.0,4
-34,Brutal,Olivia Rodrigo,0.672,0.526,4.0,-6.446,1.0,0.0599,0.0311,1.37e-06,0.28,0.28,123.999,6SRsiMl7w1USE4mFqrOhHC,spotify:track:6SRsiMl7w1USE4mFqrOhHC,143747.0,1
-35,Wockesha,Moneybagg Yo,0.582,0.537,0.0,-9.229,1.0,0.619,0.129,0.0,0.0749,0.771,82.103,0nqhKXDjsyBMvbeWmgijD0,spotify:track:0nqhKXDjsyBMvbeWmgijD0,180930.0,11
-36,Wants And Needs,Drake Featuring Lil Baby,0.578,0.449,1.0,-6.349,1.0,0.286,0.0618,2.17e-06,0.119,0.1,136.006,65OVbaJR5O1RmwOQx0875b,spotify:track:65OVbaJR5O1RmwOQx0875b,192956.0,6
-37,Famous Friends,Chris Young + Kane Brown,0.533,0.855,6.0,-2.901,1.0,0.0356,0.0553,0.0,0.335,0.64,102.017,4iXDn9pu5Q9sxv45vE8Lak,spotify:track:4iXDn9pu5Q9sxv45vE8Lak,165569.0,13
+25,Favorite Crime,Olivia Rodrigo,0.369,0.272,9.0,-10.497,1.0,0.0364,0.866,0.0,0.147,0.218,172.929,5JCoSi02qi3jJeHdZXMmR8,spotify:track:5JCoSi02qi3jJeHdZXMmR8,152667.0,5
+26,Lost Cause,Billie Eilish,0.671,0.336,10.0,-8.494,0.0,0.241,0.705,0.00751,0.0577,0.518,75.051,2xdwCJLfKCkat14mlgR26M,spotify:track:2xdwCJLfKCkat14mlgR26M,212496.0,5
+27,Happier,Olivia Rodrigo,0.395,0.443,6.0,-9.72,1.0,0.133,0.765,9.67e-06,0.0839,0.338,168.924,2tGvwE8GcFKwNdAXMnlbfl,spotify:track:2tGvwE8GcFKwNdAXMnlbfl,175933.0,5
+28,Up,Cardi B,0.868,0.795,11.0,-6.044,1.0,0.269,0.0012,0.0193,0.0461,0.819,166.0,1XXimziG1uhM0eDNCZCrUl,spotify:track:1XXimziG1uhM0eDNCZCrUl,156945.0,1
+29,Mood,24kGoldn Featuring iann dior,0.701,0.716,7.0,-3.671,0.0,0.0361,0.174,0.0,0.324,0.732,91.007,4jPy3l0RUwlUI9T5XHBW2m,spotify:track:4jPy3l0RUwlUI9T5XHBW2m,140533.0,2
+30,2040,Lil Baby & Lil Durk,0.744,0.697,11.0,-4.067,1.0,0.136,0.0415,0.0,0.112,0.238,150.046,2ELp0EL65yitpfJYwc5983,spotify:track:2ELp0EL65yitpfJYwc5983,192921.0,0
+31,Every Chance I Get,DJ Khaled Featuring Lil Baby & Lil Durk,0.477,0.727,2.0,-4.053,1.0,0.286,0.000866,0.0,0.108,0.227,150.062,1EJIcDYXwSqipW5dFe4uJz,spotify:track:1EJIcDYXwSqipW5dFe4uJz,236524.0,1
+32,Telepatia,Kali Uchis,0.653,0.524,11.0,-9.016,0.0,0.0502,0.112,0.0,0.203,0.553,83.97,6tDDoYIxWvMLTdKpjFkc1B,spotify:track:6tDDoYIxWvMLTdKpjFkc1B,160191.0,2
+33,How It Feels,Lil Baby & Lil Durk,0.788,0.628,11.0,-5.746,0.0,0.12,0.00715,0.0,0.132,0.479,104.083,62nb5YUYUqtYJhVPwRhCke,spotify:track:62nb5YUYUqtYJhVPwRhCke,166911.0,2
+34,Brutal,Olivia Rodrigo,0.672,0.526,4.0,-6.446,1.0,0.0599,0.0311,1.37e-06,0.28,0.28,123.999,6SRsiMl7w1USE4mFqrOhHC,spotify:track:6SRsiMl7w1USE4mFqrOhHC,143747.0,0
+35,Wockesha,Moneybagg Yo,0.582,0.537,0.0,-9.229,1.0,0.619,0.129,0.0,0.0749,0.771,82.103,0nqhKXDjsyBMvbeWmgijD0,spotify:track:0nqhKXDjsyBMvbeWmgijD0,180930.0,1
+36,Wants And Needs,Drake Featuring Lil Baby,0.578,0.449,1.0,-6.349,1.0,0.286,0.0618,2.17e-06,0.119,0.1,136.006,65OVbaJR5O1RmwOQx0875b,spotify:track:65OVbaJR5O1RmwOQx0875b,192956.0,1
+37,Famous Friends,Chris Young + Kane Brown,0.533,0.855,6.0,-2.901,1.0,0.0356,0.0553,0.0,0.335,0.64,102.017,4iXDn9pu5Q9sxv45vE8Lak,spotify:track:4iXDn9pu5Q9sxv45vE8Lak,165569.0,0
 38,pov,Ariana Grande,0.487,0.534,0.0,-5.664,0.0,0.0555,0.36,0.0,0.1,0.173,131.798,3UoULw70kMsiVXxW0L3A33,spotify:track:3UoULw70kMsiVXxW0L3A33,201882.0,2
-39,Gone,Dierks Bentley,0.521,0.746,6.0,-6.173,1.0,0.0351,0.00985,0.0,0.0741,0.473,149.977,7IhfjcaXuXCq20ZiAA7igK,spotify:track:7IhfjcaXuXCq20ZiAA7igK,205960.0,15
-40,Beat Box,SpotemGottem Featuring Pooh Shiesty Or DaBaby,0.853,0.426,1.0,-6.812,1.0,0.374,0.0765,0.0,0.104,0.201,160.051,6toQdWWc4noiOk3Eo5mVDS,spotify:track:6toQdWWc4noiOk3Eo5mVDS,200424.0,6
+39,Gone,Dierks Bentley,0.521,0.746,6.0,-6.173,1.0,0.0351,0.00985,0.0,0.0741,0.473,149.977,7IhfjcaXuXCq20ZiAA7igK,spotify:track:7IhfjcaXuXCq20ZiAA7igK,205960.0,0
+40,Beat Box,SpotemGottem Featuring Pooh Shiesty Or DaBaby,0.853,0.426,1.0,-6.812,1.0,0.374,0.0765,0.0,0.104,0.201,160.051,6toQdWWc4noiOk3Eo5mVDS,spotify:track:6toQdWWc4noiOk3Eo5mVDS,200424.0,1
 41,My Ex's Best Friend,Machine Gun Kelly X blackbear,0.731,0.675,5.0,-5.134,0.0,0.0434,0.00473,0.0,0.141,0.298,124.939,7kDUspsoYfLkWnZR7qwHZl,spotify:track:7kDUspsoYfLkWnZR7qwHZl,139461.0,2
-42,Still Runnin,"Lil Baby, Lil Durk & Meek Mill",0.856,0.727,2.0,-5.616,1.0,0.277,0.013,0.0,0.117,0.286,146.044,5cAN3P7jWVf78gev1eF7TJ,spotify:track:5cAN3P7jWVf78gev1eF7TJ,173419.0,6
-43,Track Star,Mooski,0.641,0.598,7.0,-5.7,0.0,0.324,0.381,0.0,0.0921,0.285,131.459,5hChuUMe5iHfjkXgzj1D4b,spotify:track:5hChuUMe5iHfjkXgzj1D4b,199706.0,11
-44,What You Know Bout Love,Pop Smoke,0.709,0.548,10.0,-8.493,1.0,0.353,0.65,1.59e-06,0.133,0.543,83.995,1tkg4EHVoqnhR6iFEXb60y,spotify:track:1tkg4EHVoqnhR6iFEXb60y,160000.0,11
-45,Who I Want,Lil Baby & Lil Durk,0.77,0.561,10.0,-4.97,0.0,0.083,0.14,0.0,0.123,0.81,145.928,3vJKLsUYcC7mARUTOMUPaJ,spotify:track:3vJKLsUYcC7mARUTOMUPaJ,173208.0,4
-46,my.life,"J. Cole, 21 Savage & Morray",0.741,0.647,2.0,-12.878,1.0,0.0427,0.108,0.00139,0.0555,0.804,131.097,4ZoBC5MhSEzuknIgAkBaoT,spotify:track:4ZoBC5MhSEzuknIgAkBaoT,284000.0,7
-47,Back In Blood,Pooh Shiesty Featuring Lil Durk,0.759,0.538,8.0,-8.256,0.0,0.384,0.151,0.0,0.126,0.831,146.933,7JuHVG3qQKQKxC4doneXVW,spotify:track:7JuHVG3qQKQKxC4doneXVW,184490.0,6
-48,Time Today,Moneybagg Yo,0.912,0.608,1.0,-7.686,1.0,0.397,0.0458,0.0,0.248,0.327,136.994,0YrKSfpvflYnLSBd4Jtu6J,spotify:track:0YrKSfpvflYnLSBd4Jtu6J,136900.0,6
+42,Still Runnin,"Lil Baby, Lil Durk & Meek Mill",0.856,0.727,2.0,-5.616,1.0,0.277,0.013,0.0,0.117,0.286,146.044,5cAN3P7jWVf78gev1eF7TJ,spotify:track:5cAN3P7jWVf78gev1eF7TJ,173419.0,1
+43,Track Star,Mooski,0.641,0.598,7.0,-5.7,0.0,0.324,0.381,0.0,0.0921,0.285,131.459,5hChuUMe5iHfjkXgzj1D4b,spotify:track:5hChuUMe5iHfjkXgzj1D4b,199706.0,1
+44,What You Know Bout Love,Pop Smoke,0.709,0.548,10.0,-8.493,1.0,0.353,0.65,1.59e-06,0.133,0.543,83.995,1tkg4EHVoqnhR6iFEXb60y,spotify:track:1tkg4EHVoqnhR6iFEXb60y,160000.0,1
+45,Who I Want,Lil Baby & Lil Durk,0.77,0.561,10.0,-4.97,0.0,0.083,0.14,0.0,0.123,0.81,145.928,3vJKLsUYcC7mARUTOMUPaJ,spotify:track:3vJKLsUYcC7mARUTOMUPaJ,173208.0,2
+46,my.life,"J. Cole, 21 Savage & Morray",0.741,0.647,2.0,-12.878,1.0,0.0427,0.108,0.00139,0.0555,0.804,131.097,4ZoBC5MhSEzuknIgAkBaoT,spotify:track:4ZoBC5MhSEzuknIgAkBaoT,284000.0,0
+47,Back In Blood,Pooh Shiesty Featuring Lil Durk,0.759,0.538,8.0,-8.256,0.0,0.384,0.151,0.0,0.126,0.831,146.933,7JuHVG3qQKQKxC4doneXVW,spotify:track:7JuHVG3qQKQKxC4doneXVW,184490.0,1
+48,Time Today,Moneybagg Yo,0.912,0.608,1.0,-7.686,1.0,0.397,0.0458,0.0,0.248,0.327,136.994,0YrKSfpvflYnLSBd4Jtu6J,spotify:track:0YrKSfpvflYnLSBd4Jtu6J,136900.0,1
 49,Lil Bit,Nelly & Florida Georgia Line,0.707,0.689,4.0,-7.097,0.0,0.0387,0.0255,0.0,0.383,0.41,119.987,0NmuYnjETG3u3qx0OmEJev,spotify:track:0NmuYnjETG3u3qx0OmEJev,195962.0,2
-50,Blame It On You,Jason Aldean,0.484,0.783,2.0,-5.334,1.0,0.0308,0.0957,0.000118,0.107,0.594,137.918,2CwG4BXIlGmmYLDmDvwMTH,spotify:track:2CwG4BXIlGmmYLDmDvwMTH,215360.0,1
-51,Nobody,Dylan Scott,0.398,0.716,0.0,-5.254,1.0,0.0392,0.0764,0.0,0.0848,0.494,117.295,6bTn1ovliI0OkjUNkiMBJq,spotify:track:6bTn1ovliI0OkjUNkiMBJq,193429.0,1
-52,Todo de Ti,Rauw Alejandro,0.808,0.626,3.0,-4.577,0.0,0.0353,0.397,0.00584,0.102,0.569,127.955,4fSIb4hdOQ151TILNsSEaF,spotify:track:4fSIb4hdOQ151TILNsSEaF,202771.0,14
-53,Enough For You,Olivia Rodrigo,0.638,0.259,7.0,-10.706,1.0,0.0898,0.753,0.0,0.219,0.269,88.485,2TOzTqQXNmR2zDJXihjZ2e,spotify:track:2TOzTqQXNmR2zDJXihjZ2e,202827.0,8
-54,Settling Down,Miranda Lambert,0.643,0.756,6.0,-5.8,0.0,0.0305,0.0215,0.000268,0.101,0.934,90.001,53bZYxVbCYm6w1Gx8U64bz,spotify:track:53bZYxVbCYm6w1Gx8U64bz,197453.0,4
+50,Blame It On You,Jason Aldean,0.484,0.783,2.0,-5.334,1.0,0.0308,0.0957,0.000118,0.107,0.594,137.918,2CwG4BXIlGmmYLDmDvwMTH,spotify:track:2CwG4BXIlGmmYLDmDvwMTH,215360.0,0
+51,Nobody,Dylan Scott,0.398,0.716,0.0,-5.254,1.0,0.0392,0.0764,0.0,0.0848,0.494,117.295,6bTn1ovliI0OkjUNkiMBJq,spotify:track:6bTn1ovliI0OkjUNkiMBJq,193429.0,0
+52,Todo de Ti,Rauw Alejandro,0.808,0.626,3.0,-4.577,0.0,0.0353,0.397,0.00584,0.102,0.569,127.955,4fSIb4hdOQ151TILNsSEaF,spotify:track:4fSIb4hdOQ151TILNsSEaF,202771.0,2
+53,Enough For You,Olivia Rodrigo,0.638,0.259,7.0,-10.706,1.0,0.0898,0.753,0.0,0.219,0.269,88.485,2TOzTqQXNmR2zDJXihjZ2e,spotify:track:2TOzTqQXNmR2zDJXihjZ2e,202827.0,5
+54,Settling Down,Miranda Lambert,0.643,0.756,6.0,-5.8,0.0,0.0305,0.0215,0.000268,0.101,0.934,90.001,53bZYxVbCYm6w1Gx8U64bz,spotify:track:53bZYxVbCYm6w1Gx8U64bz,197453.0,2
 55,Still Hood,Lil Baby & Lil Durk,0.742,0.701,1.0,-5.92,1.0,0.21,0.0821,0.0,0.116,0.178,137.951,1huoY7hw3hGVGfuPPe9y8P,spotify:track:1huoY7hw3hGVGfuPPe9y8P,195064.0,1
-56,"Jealousy, Jealousy",Olivia Rodrigo,0.695,0.575,10.0,-6.334,0.0,0.116,0.198,0.0,0.0614,0.699,163.929,0MMyJUC3WNnFS1lit5pTjk,spotify:track:0MMyJUC3WNnFS1lit5pTjk,173160.0,4
-57,Okay,Lil Baby & Lil Durk,0.89,0.674,11.0,-5.45,0.0,0.318,0.107,0.0,0.111,0.248,134.028,3jweuceENR5zzn10LhcjPH,spotify:track:3jweuceENR5zzn10LhcjPH,216548.0,11
-58,Almost Maybes,Jordan Davis,0.582,0.868,11.0,-3.927,1.0,0.0522,0.146,0.0,0.103,0.555,90.105,14JFKtBSqefxfMiKhq6JT8,spotify:track:14JFKtBSqefxfMiKhq6JT8,179153.0,13
+56,"Jealousy, Jealousy",Olivia Rodrigo,0.695,0.575,10.0,-6.334,0.0,0.116,0.198,0.0,0.0614,0.699,163.929,0MMyJUC3WNnFS1lit5pTjk,spotify:track:0MMyJUC3WNnFS1lit5pTjk,173160.0,2
+57,Okay,Lil Baby & Lil Durk,0.89,0.674,11.0,-5.45,0.0,0.318,0.107,0.0,0.111,0.248,134.028,3jweuceENR5zzn10LhcjPH,spotify:track:3jweuceENR5zzn10LhcjPH,216548.0,1
+58,Almost Maybes,Jordan Davis,0.582,0.868,11.0,-3.927,1.0,0.0522,0.146,0.0,0.103,0.555,90.105,14JFKtBSqefxfMiKhq6JT8,spotify:track:14JFKtBSqefxfMiKhq6JT8,179153.0,0
 59,Man Of My Word,Lil Baby & Lil Durk,0.789,0.609,1.0,-5.969,1.0,0.174,0.0439,0.0,0.178,0.0816,136.001,4nNw167LUp6j2VvuJdbtv8,spotify:track:4nNw167LUp6j2VvuJdbtv8,172401.0,1
-60,Build A Bitch,Bella Poarch,0.855,0.463,3.0,-7.454,1.0,0.0367,0.217,1.77e-05,0.347,0.866,102.931,7BoobGhD4x5K96Me0hqC8Q,spotify:track:7BoobGhD4x5K96Me0hqC8Q,122773.0,3
-61,Breaking Up Was Easy In The 90's,Sam Hunt,0.562,0.649,9.0,-5.4,1.0,0.0494,0.231,0.0,0.341,0.376,145.913,4sf2L157iEgAR7yrCNLgSq,spotify:track:4sf2L157iEgAR7yrCNLgSq,215933.0,9
-62,Glad You Exist,Dan + Shay,0.748,0.551,11.0,-6.12,1.0,0.0349,0.235,0.0,0.119,0.66,103.953,472vIK1ldetTxRxG3ovaiY,spotify:track:472vIK1ldetTxRxG3ovaiY,144533.0,13
-63,pride.is.the.devil,J. Cole & Lil Baby,0.293,0.619,8.0,-7.923,1.0,0.0594,0.0357,0.927,0.108,0.0582,39.615,1Z01AETyJqE4M2aGBhJGDY,spotify:track:1Z01AETyJqE4M2aGBhJGDY,121543.0,0
-64,"1 Step Forward, 3 Steps Back",Olivia Rodrigo,0.473,0.203,2.0,-12.627,1.0,0.102,0.941,0.0,0.126,0.419,168.884,4wcBRRpIfesgcyUtis7PEg,spotify:track:4wcBRRpIfesgcyUtis7PEg,163587.0,16
-65,Ski,Young Thug & Gunna,0.953,0.621,8.0,-7.638,0.0,0.221,0.017,0.0,0.0398,0.883,123.016,6755DFiZ7CWe2WMdTGW5C1,spotify:track:6755DFiZ7CWe2WMdTGW5C1,152333.0,4
-66,Medical,Lil Baby & Lil Durk,0.763,0.798,2.0,-4.692,1.0,0.397,0.0555,0.0,0.116,0.482,77.987,5BCzsnN4U4OvOegjErHTUF,spotify:track:5BCzsnN4U4OvOegjErHTUF,187680.0,11
-67,Rich Off Pain,"Lil Baby, Lil Durk & Rod Wave",0.469,0.613,11.0,-6.556,1.0,0.335,0.0747,0.0,0.205,0.135,72.434,6MSyik7EzWsHQjTOPLFBrr,spotify:track:6MSyik7EzWsHQjTOPLFBrr,235015.0,11
-68,Leave Before You Love Me,Marshmello X Jonas Brothers,0.721,0.738,7.0,-4.77,1.0,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,4qu63nuBpdn0qHUHuObEj1,spotify:track:4qu63nuBpdn0qHUHuObEj1,154983.0,13
-69,Lying,Lil Baby & Lil Durk,0.741,0.892,10.0,-4.225,0.0,0.304,0.172,0.0,0.126,0.56,159.088,5LtzwqIWPXKEYfVcaY3bjc,spotify:track:5LtzwqIWPXKEYfVcaY3bjc,181981.0,6
-70,Snowflakes,Tom MacDonald,0.53,0.826,4.0,-6.369,1.0,0.43,0.0209,0.0,0.0915,0.277,95.99,6gcRcCkx2K09BucndWZMCS,spotify:track:6gcRcCkx2K09BucndWZMCS,229375.0,11
-71,Single Saturday Night,Cole Swindell,0.623,0.79,7.0,-5.07,1.0,0.0473,0.118,0.0,0.226,0.694,81.949,1irAliF0T8sLIOPJp6n7rU,spotify:track:1irAliF0T8sLIOPJp6n7rU,187684.0,13
-72,That's Facts,Lil Baby & Lil Durk,0.884,0.577,1.0,-4.716,1.0,0.319,0.0843,0.0,0.0602,0.854,137.032,6dug6dIV40JMz2myhafHrm,spotify:track:6dug6dIV40JMz2myhafHrm,218611.0,11
-73,Made For You,Jake Owen,0.581,0.441,1.0,-6.829,1.0,0.0268,0.77,2.75e-05,0.111,0.337,82.125,7vF3xkCMvZjAe2nTWY0uQZ,spotify:track:7vF3xkCMvZjAe2nTWY0uQZ,238400.0,8
-74,Your Power,Billie Eilish,0.634,0.285,9.0,-14.007,0.0,0.0807,0.937,0.000359,0.232,0.203,129.65,5qNh5WtzMbfpSj2jLlBkoD,spotify:track:5qNh5WtzMbfpSj2jLlBkoD,245897.0,8
-75,No More Parties,Coi Leray Featuring Lil Durk,0.847,0.405,11.0,-10.901,1.0,0.584,0.232,5.37e-06,0.0944,0.588,156.999,3R6wLBD4oU6op8L4YfMho9,spotify:track:3R6wLBD4oU6op8L4YfMho9,140920.0,6
-76,We're Good,Dua Lipa,0.722,0.588,6.0,-5.932,1.0,0.0544,0.0319,0.0,0.183,0.59,134.01,1diS6nkxMQc3wwC4G1j0bh,spotify:track:1diS6nkxMQc3wwC4G1j0bh,165507.0,13
-77,One Too Many,Keith Urban Duet With P!nk,0.697,0.535,4.0,-6.504,1.0,0.068,0.247,0.0,0.569,0.594,82.959,5NUXE8W12lWcUXgJRCjeEw,spotify:track:5NUXE8W12lWcUXgJRCjeEw,203893.0,12
-78,Please,Lil Baby & Lil Durk,0.677,0.634,7.0,-6.231,1.0,0.335,0.228,0.0,0.131,0.496,90.268,3zWR0zS9p39c0FVkYkHfVF,spotify:track:3zWR0zS9p39c0FVkYkHfVF,206254.0,11
-79,Up The Side,"Lil Baby, Lil Durk & Young Thug",0.644,0.563,0.0,-9.814,0.0,0.159,0.0518,0.0,0.179,0.339,160.106,2L6lh2RmMs1yz4FQzdbwOn,spotify:track:2L6lh2RmMs1yz4FQzdbwOn,218417.0,14
-80,Minimum Wage,Blake Shelton,0.546,0.934,4.0,-3.796,1.0,0.0643,0.00187,0.0,0.062,0.775,89.972,0Lavu1rppGgXfiK27cAMyU,spotify:track:0Lavu1rppGgXfiK27cAMyU,228187.0,7
-81,Miss The Rage,Trippie Redd & Playboi Carti,0.584,0.859,8.0,-5.616,1.0,0.121,0.0144,0.0,0.847,0.369,77.005,2BITQ360Knh6qNAOqR7Dyq,spotify:track:2BITQ360Knh6qNAOqR7Dyq,236883.0,12
-82,Way Less Sad,AJR,0.701,0.547,2.0,-8.238,1.0,0.0483,0.00843,0.0,0.0987,0.4,140.015,4jbtL4tjkqghUvJknUqU1s,spotify:track:4jbtL4tjkqghUvJknUqU1s,206108.0,1
-83,Hope Ur OK,Olivia Rodrigo,0.443,0.298,0.0,-12.181,1.0,0.0644,0.388,1e-05,0.103,0.172,77.253,1zejeOnykpCoyVSit6Bwp3,spotify:track:1zejeOnykpCoyVSit6Bwp3,209560.0,8
-84,Quicksand,Morray,0.901,0.656,4.0,-7.452,0.0,0.277,0.0807,0.0,0.181,0.599,119.956,4iCZ6Cr76For1TuHUQ90r8,spotify:track:4iCZ6Cr76For1TuHUQ90r8,224933.0,11
-85,Arcade,Duncan Laurence,0.45,0.329,9.0,-12.603,0.0,0.0441,0.818,0.00109,0.135,0.266,71.884,1Xi84slp6FryDSCbzq4UCD,spotify:track:1Xi84slp6FryDSCbzq4UCD,183624.0,8
-86,Straightenin,Migos,0.847,0.629,9.0,-5.81,1.0,0.102,0.0318,0.0,0.152,0.109,135.976,3X2r2CnHOJeV5YekPTgBnK,spotify:track:3X2r2CnHOJeV5YekPTgBnK,255532.0,9
-87,Gang Gang,Polo G & Lil Wayne,0.752,0.563,3.0,-8.066,0.0,0.209,0.146,0.0,0.103,0.551,145.05,4VW44pawoOHPUjlN7DX5vk,spotify:track:4VW44pawoOHPUjlN7DX5vk,178776.0,14
-88,Drinkin' Beer. Talkin' God. Amen.,Chase Rice Featuring Florida Georgia Line,0.627,0.678,2.0,-4.691,1.0,0.0294,0.185,0.0,0.374,0.724,100.032,1UYfAU2bwgjaM5rIIPQleC,spotify:track:1UYfAU2bwgjaM5rIIPQleC,160839.0,7
-89,Follow You,Imagine Dragons,0.542,0.732,9.0,-5.956,1.0,0.0521,0.00209,7.92e-05,0.496,0.489,124.912,7FdUvDkaE24o3FPIWTvzv2,spotify:track:7FdUvDkaE24o3FPIWTvzv2,175644.0,12
-90,Chasing After You,Ryan Hurd With Maren Morris,0.596,0.679,4.0,-6.395,1.0,0.0394,0.723,0.0,0.116,0.479,131.912,1ZIKpMTRPqhwAoVXWY3tXI,spotify:track:1ZIKpMTRPqhwAoVXWY3tXI,207974.0,3
-91,Tell Em,Cochise & $NOT,0.672,0.717,5.0,-7.476,1.0,0.226,0.103,0.0,0.398,0.473,157.905,7nc7mlSdWYeFom84zZ8Wr8,spotify:track:7nc7mlSdWYeFom84zZ8Wr8,180380.0,6
-92,4 Da Gang,42 Dugg & Roddy Ricch,0.871,0.545,7.0,-10.489,1.0,0.189,0.0143,0.0,0.148,0.722,100.482,4KIkADzoVm3A10E9qyjsQ5,spotify:track:4KIkADzoVm3A10E9qyjsQ5,155720.0,11
-93,Tombstone,Rod Wave,0.55,0.637,8.0,-5.212,1.0,0.163,0.597,0.0,0.129,0.535,84.448,5pRTz4O2qOkr5nawemy6Wb,spotify:track:5pRTz4O2qOkr5nawemy6Wb,160078.0,9
+60,Build A Bitch,Bella Poarch,0.855,0.463,3.0,-7.454,1.0,0.0367,0.217,1.77e-05,0.347,0.866,102.931,7BoobGhD4x5K96Me0hqC8Q,spotify:track:7BoobGhD4x5K96Me0hqC8Q,122773.0,0
+61,Breaking Up Was Easy In The 90's,Sam Hunt,0.562,0.649,9.0,-5.4,1.0,0.0494,0.231,0.0,0.341,0.376,145.913,4sf2L157iEgAR7yrCNLgSq,spotify:track:4sf2L157iEgAR7yrCNLgSq,215933.0,0
+62,Glad You Exist,Dan + Shay,0.748,0.551,11.0,-6.12,1.0,0.0349,0.235,0.0,0.119,0.66,103.953,472vIK1ldetTxRxG3ovaiY,spotify:track:472vIK1ldetTxRxG3ovaiY,144533.0,0
+63,pride.is.the.devil,J. Cole & Lil Baby,0.293,0.619,8.0,-7.923,1.0,0.0594,0.0357,0.927,0.108,0.0582,39.615,1Z01AETyJqE4M2aGBhJGDY,spotify:track:1Z01AETyJqE4M2aGBhJGDY,121543.0,6
+64,"1 Step Forward, 3 Steps Back",Olivia Rodrigo,0.473,0.203,2.0,-12.627,1.0,0.102,0.941,0.0,0.126,0.419,168.884,4wcBRRpIfesgcyUtis7PEg,spotify:track:4wcBRRpIfesgcyUtis7PEg,163587.0,5
+65,Ski,Young Thug & Gunna,0.953,0.621,8.0,-7.638,0.0,0.221,0.017,0.0,0.0398,0.883,123.016,6755DFiZ7CWe2WMdTGW5C1,spotify:track:6755DFiZ7CWe2WMdTGW5C1,152333.0,1
+66,Medical,Lil Baby & Lil Durk,0.763,0.798,2.0,-4.692,1.0,0.397,0.0555,0.0,0.116,0.482,77.987,5BCzsnN4U4OvOegjErHTUF,spotify:track:5BCzsnN4U4OvOegjErHTUF,187680.0,1
+67,Rich Off Pain,"Lil Baby, Lil Durk & Rod Wave",0.469,0.613,11.0,-6.556,1.0,0.335,0.0747,0.0,0.205,0.135,72.434,6MSyik7EzWsHQjTOPLFBrr,spotify:track:6MSyik7EzWsHQjTOPLFBrr,235015.0,1
+68,Leave Before You Love Me,Marshmello X Jonas Brothers,0.721,0.738,7.0,-4.77,1.0,0.0403,0.00226,4.41e-06,0.118,0.637,119.976,4qu63nuBpdn0qHUHuObEj1,spotify:track:4qu63nuBpdn0qHUHuObEj1,154983.0,0
+69,Lying,Lil Baby & Lil Durk,0.741,0.892,10.0,-4.225,0.0,0.304,0.172,0.0,0.126,0.56,159.088,5LtzwqIWPXKEYfVcaY3bjc,spotify:track:5LtzwqIWPXKEYfVcaY3bjc,181981.0,1
+70,Snowflakes,Tom MacDonald,0.53,0.826,4.0,-6.369,1.0,0.43,0.0209,0.0,0.0915,0.277,95.99,6gcRcCkx2K09BucndWZMCS,spotify:track:6gcRcCkx2K09BucndWZMCS,229375.0,1
+71,Single Saturday Night,Cole Swindell,0.623,0.79,7.0,-5.07,1.0,0.0473,0.118,0.0,0.226,0.694,81.949,1irAliF0T8sLIOPJp6n7rU,spotify:track:1irAliF0T8sLIOPJp6n7rU,187684.0,0
+72,That's Facts,Lil Baby & Lil Durk,0.884,0.577,1.0,-4.716,1.0,0.319,0.0843,0.0,0.0602,0.854,137.032,6dug6dIV40JMz2myhafHrm,spotify:track:6dug6dIV40JMz2myhafHrm,218611.0,1
+73,Made For You,Jake Owen,0.581,0.441,1.0,-6.829,1.0,0.0268,0.77,2.75e-05,0.111,0.337,82.125,7vF3xkCMvZjAe2nTWY0uQZ,spotify:track:7vF3xkCMvZjAe2nTWY0uQZ,238400.0,5
+74,Your Power,Billie Eilish,0.634,0.285,9.0,-14.007,0.0,0.0807,0.937,0.000359,0.232,0.203,129.65,5qNh5WtzMbfpSj2jLlBkoD,spotify:track:5qNh5WtzMbfpSj2jLlBkoD,245897.0,5
+75,No More Parties,Coi Leray Featuring Lil Durk,0.847,0.405,11.0,-10.901,1.0,0.584,0.232,5.37e-06,0.0944,0.588,156.999,3R6wLBD4oU6op8L4YfMho9,spotify:track:3R6wLBD4oU6op8L4YfMho9,140920.0,1
+76,We're Good,Dua Lipa,0.722,0.588,6.0,-5.932,1.0,0.0544,0.0319,0.0,0.183,0.59,134.01,1diS6nkxMQc3wwC4G1j0bh,spotify:track:1diS6nkxMQc3wwC4G1j0bh,165507.0,0
+77,One Too Many,Keith Urban Duet With P!nk,0.697,0.535,4.0,-6.504,1.0,0.068,0.247,0.0,0.569,0.594,82.959,5NUXE8W12lWcUXgJRCjeEw,spotify:track:5NUXE8W12lWcUXgJRCjeEw,203893.0,4
+78,Please,Lil Baby & Lil Durk,0.677,0.634,7.0,-6.231,1.0,0.335,0.228,0.0,0.131,0.496,90.268,3zWR0zS9p39c0FVkYkHfVF,spotify:track:3zWR0zS9p39c0FVkYkHfVF,206254.0,1
+79,Up The Side,"Lil Baby, Lil Durk & Young Thug",0.644,0.563,0.0,-9.814,0.0,0.159,0.0518,0.0,0.179,0.339,160.106,2L6lh2RmMs1yz4FQzdbwOn,spotify:track:2L6lh2RmMs1yz4FQzdbwOn,218417.0,2
+80,Minimum Wage,Blake Shelton,0.546,0.934,4.0,-3.796,1.0,0.0643,0.00187,0.0,0.062,0.775,89.972,0Lavu1rppGgXfiK27cAMyU,spotify:track:0Lavu1rppGgXfiK27cAMyU,228187.0,0
+81,Miss The Rage,Trippie Redd & Playboi Carti,0.584,0.859,8.0,-5.616,1.0,0.121,0.0144,0.0,0.847,0.369,77.005,2BITQ360Knh6qNAOqR7Dyq,spotify:track:2BITQ360Knh6qNAOqR7Dyq,236883.0,4
+82,Way Less Sad,AJR,0.701,0.547,2.0,-8.238,1.0,0.0483,0.00843,0.0,0.0987,0.4,140.015,4jbtL4tjkqghUvJknUqU1s,spotify:track:4jbtL4tjkqghUvJknUqU1s,206108.0,0
+83,Hope Ur OK,Olivia Rodrigo,0.443,0.298,0.0,-12.181,1.0,0.0644,0.388,1e-05,0.103,0.172,77.253,1zejeOnykpCoyVSit6Bwp3,spotify:track:1zejeOnykpCoyVSit6Bwp3,209560.0,5
+84,Quicksand,Morray,0.901,0.656,4.0,-7.452,0.0,0.277,0.0807,0.0,0.181,0.599,119.956,4iCZ6Cr76For1TuHUQ90r8,spotify:track:4iCZ6Cr76For1TuHUQ90r8,224933.0,1
+85,Arcade,Duncan Laurence,0.45,0.329,9.0,-12.603,0.0,0.0441,0.818,0.00109,0.135,0.266,71.884,1Xi84slp6FryDSCbzq4UCD,spotify:track:1Xi84slp6FryDSCbzq4UCD,183624.0,5
+86,Straightenin,Migos,0.847,0.629,9.0,-5.81,1.0,0.102,0.0318,0.0,0.152,0.109,135.976,3X2r2CnHOJeV5YekPTgBnK,spotify:track:3X2r2CnHOJeV5YekPTgBnK,255532.0,0
+87,Gang Gang,Polo G & Lil Wayne,0.752,0.563,3.0,-8.066,0.0,0.209,0.146,0.0,0.103,0.551,145.05,4VW44pawoOHPUjlN7DX5vk,spotify:track:4VW44pawoOHPUjlN7DX5vk,178776.0,1
+88,Drinkin' Beer. Talkin' God. Amen.,Chase Rice Featuring Florida Georgia Line,0.627,0.678,2.0,-4.691,1.0,0.0294,0.185,0.0,0.374,0.724,100.032,1UYfAU2bwgjaM5rIIPQleC,spotify:track:1UYfAU2bwgjaM5rIIPQleC,160839.0,0
+89,Follow You,Imagine Dragons,0.542,0.732,9.0,-5.956,1.0,0.0521,0.00209,7.92e-05,0.496,0.489,124.912,7FdUvDkaE24o3FPIWTvzv2,spotify:track:7FdUvDkaE24o3FPIWTvzv2,175644.0,4
+90,Chasing After You,Ryan Hurd With Maren Morris,0.596,0.679,4.0,-6.395,1.0,0.0394,0.723,0.0,0.116,0.479,131.912,1ZIKpMTRPqhwAoVXWY3tXI,spotify:track:1ZIKpMTRPqhwAoVXWY3tXI,207974.0,5
+91,Tell Em,Cochise & $NOT,0.672,0.717,5.0,-7.476,1.0,0.226,0.103,0.0,0.398,0.473,157.905,7nc7mlSdWYeFom84zZ8Wr8,spotify:track:7nc7mlSdWYeFom84zZ8Wr8,180380.0,1
+92,4 Da Gang,42 Dugg & Roddy Ricch,0.871,0.545,7.0,-10.489,1.0,0.189,0.0143,0.0,0.148,0.722,100.482,4KIkADzoVm3A10E9qyjsQ5,spotify:track:4KIkADzoVm3A10E9qyjsQ5,155720.0,1
+93,Tombstone,Rod Wave,0.55,0.637,8.0,-5.212,1.0,0.163,0.597,0.0,0.129,0.535,84.448,5pRTz4O2qOkr5nawemy6Wb,spotify:track:5pRTz4O2qOkr5nawemy6Wb,160078.0,0
 94,What's Next,Drake,0.777,0.58,0.0,-6.928,0.0,0.0525,0.0125,0.0,0.161,0.0636,129.918,3mDFLytDotXo2p0rvfGbkA,spotify:track:3mDFLytDotXo2p0rvfGbkA,178154.0,2
-95,Things A Man Oughta Know,Lainey Wilson,0.659,0.683,3.0,-5.623,1.0,0.0312,0.513,4.93e-06,0.133,0.397,139.931,5QS8PNEWbqTEZyQ6e9ZbJf,spotify:track:5QS8PNEWbqTEZyQ6e9ZbJf,203373.0,1
-96,Country Again,Thomas Rhett,0.467,0.481,2.0,-6.947,1.0,0.0255,0.227,0.000189,0.11,0.248,147.886,3CiF9D8iuVhZWDvvjf8HpG,spotify:track:3CiF9D8iuVhZWDvvjf8HpG,221240.0,1
-97,Drunk (And I Don't Wanna Go Home),Elle King & Miranda Lambert,0.612,0.884,5.0,-4.4,1.0,0.0459,0.00516,0.0,0.0997,0.626,119.991,0QULNNd9z5s35entfiiXoa,spotify:track:0QULNNd9z5s35entfiiXoa,245626.0,13
-98,If You Want To,Lil Baby & Lil Durk,0.795,0.599,6.0,-7.819,1.0,0.123,0.0414,0.0,0.193,0.351,97.033,1EXRmdtTA2IEnYGiuw9plD,spotify:track:1EXRmdtTA2IEnYGiuw9plD,195454.0,9
+95,Things A Man Oughta Know,Lainey Wilson,0.659,0.683,3.0,-5.623,1.0,0.0312,0.513,4.93e-06,0.133,0.397,139.931,5QS8PNEWbqTEZyQ6e9ZbJf,spotify:track:5QS8PNEWbqTEZyQ6e9ZbJf,203373.0,0
+96,Country Again,Thomas Rhett,0.467,0.481,2.0,-6.947,1.0,0.0255,0.227,0.000189,0.11,0.248,147.886,3CiF9D8iuVhZWDvvjf8HpG,spotify:track:3CiF9D8iuVhZWDvvjf8HpG,221240.0,5
+97,Drunk (And I Don't Wanna Go Home),Elle King & Miranda Lambert,0.612,0.884,5.0,-4.4,1.0,0.0459,0.00516,0.0,0.0997,0.626,119.991,0QULNNd9z5s35entfiiXoa,spotify:track:0QULNNd9z5s35entfiiXoa,245626.0,0
+98,If You Want To,Lil Baby & Lil Durk,0.795,0.599,6.0,-7.819,1.0,0.123,0.0414,0.0,0.193,0.351,97.033,1EXRmdtTA2IEnYGiuw9plD,spotify:track:1EXRmdtTA2IEnYGiuw9plD,195454.0,0
 99,Seeing Green,"Nicki Minaj, Drake & Lil Wayne",0.573,0.867,5.0,-2.876,0.0,0.168,0.0853,0.0,0.38,0.231,74.861,1TZv3bujNaYz646eezRE91,spotify:track:1TZv3bujNaYz646eezRE91,339506.0,2

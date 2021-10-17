@@ -1,6 +1,6 @@
 # Project_week3<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Customised your DJ's session
+# Customise your DJ's session
 *[Laura]*
 
 *[Remote DA Bootcamp, IRONHACK May 2021]*
